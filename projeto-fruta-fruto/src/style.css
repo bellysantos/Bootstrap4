@@ -1,0 +1,42 @@
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 400px;
+}
+
+.carrossel-titulo {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.titulo-texto {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #8b0000;
+}
+
+.botao-primario {
+    background: #8b0000;
+    color: #FFFFFF;
+}
+
+.borda-card {
+    border-color: #8b0000;
+}
+
+.card-imagem {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 200px;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
